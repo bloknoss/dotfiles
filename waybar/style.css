@@ -43,6 +43,10 @@
   margin-right: 8px;
 }
 
+#battery {
+  margin-right: 8px;
+ }
+
 #pulseaudio {
   color: #14b8a6;
   margin-right: 4px;
